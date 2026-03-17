@@ -1,6 +1,9 @@
-### The Shoals Root Current (The SRC)
-CIS 209 - Spring 2026 - (Business Name: The SRC)
-<br>The Shoals Root Current (SRC) is a community platform bridging the historic Muscle Shoals music legacy with today's local artists and events. This wireframe maps out the homepage as a 'Digital Town Square' with sections for listening to music, finding local events, and supporting the movement through sponsorships. I used Lovable.dev to bring the wireframe to life as an interactive prototype.
+# The Shoals Root Current (The SRC)
+## CIS 209 - Spring 2026 - (Business Name: The SRC)
+# Business Description
+The Shoals Root Current (SRC) is a community platform bridging the historic Muscle Shoals music legacy with today's local artists and events. This wireframe maps out the homepage as a 'Digital Town Square' with sections for listening to music, finding local events, and supporting the movement through sponsorships. I used Lovable.dev to bring the wireframe to life as an interactive prototype.
+# Wireframe
+
 
 ## Technical Requirements
 - **Languages:** HTML5, CSS3, and TypeScript (TSX).
