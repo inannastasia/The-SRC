@@ -13,4 +13,4 @@ The Shoals Root Current (SRC) is a community platform bridging the historic Musc
 - [ ] UI Components: shadcn/ui (Accessible component library).
 - [ ] Hosting: GitHub Pages or Lovable Sandbox Deployment.
 - [ ] API Integration: None currently; future integration planned for YouTube/Podcast embeds.
-- [ ]vVersion Control: Managed via GitHub with automated commits from the Lovable IDE.
+- [ ] Version Control: Managed via GitHub with automated commits from the Lovable IDE.
