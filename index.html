@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The SRC - Digital Town Square</title>
+    <!-- Links to your CSS file -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="logo">SRC</div>
+        
+        <!-- ISSUE 4: Mobile Hamburger Button -->
+        <button class="hamburger" id="hamburger-btn">☰</button>
+        
+        <!-- Navigation Links -->
+        <ul class="nav-links" id="nav-links">
+            <li><a href="#listen">The Current</a></li>
+            <li><a href="#events">Local Events</a></li>
+            <li><a href="#sponsor" class="btn-primary">Support the Movement</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <h1>The Digital <span>Town Square</span> of the Shoals.</h1>
+        <p>Bridging the historic Muscle Shoals music legacy with today's local artists and events.</p>
+    </header>
+
+    <!-- ISSUE 3: Media Player / Spotify Embed -->
+    <section id="listen" class="section">
+        <h2>The Current</h2>
+        <div class="media-container">
+            <!-- This iframe acts as your Spotify/Podcast embed -->
+            <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWvhKV4FBciw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+    </section>
+
+    <!-- ISSUE 2: Sponsorship Interest Form -->
+    <section id="sponsor" class="section sponsor-section">
+        <div class="sponsor-content">
+            <h2>Support the Movement</h2>
+            <p>Help us keep the Shoals music legacy alive. Partner with SRC today.</p>
+        </div>
+        
+        <div class="sponsor-form-container">
+            <form id="sponsorship-form">
+                <div class="form-group">
+                    <label for="fullName">Full Name</label>
+                    <input type="text" id="fullName" required placeholder="John Doe">
+                </div>
+                <div class="form-group">
+                    <label for="businessName">Business Name</label>
+                    <input type="text" id="businessName" required placeholder="Shoals Records">
+                </div>
+                <button type="submit" class="btn-submit">Submit Interest</button>
+            </form>
+            <div id="success-message" class="hidden">Thank you! We've received your interest.</div>
+        </div>
+    </section>
+
+    <!-- Links to your JS file -->
+    <script src="scripts/main.js"></script>
+</body>
+</html>
