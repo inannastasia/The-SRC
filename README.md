@@ -1,11 +1,11 @@
-<div align="center"># The Shoals Root Current (The SRC)</div>
+<div align="center"> # The Shoals Root Current (The SRC) </div>
 CIS 209 - Spring 2026 - (Business Name: The SRC)
-<div align="center"># Business Description</div>
+<div align="center"> # Business Description </div>
 The Shoals Root Current (SRC) is a community platform bridging the historic Muscle Shoals music legacy with today's local artists and events. This wireframe maps out the homepage as a 'Digital Town Square' with sections for listening to music, finding local events, and supporting the movement through sponsorships. I used Lovable.dev to bring the wireframe to life as an interactive prototype.
-<div align="center"># Wireframe</div>
+<div align="center"> # Wireframe </div>
 <div align="center"><img width="677" height="835" alt="SRC wireframe" src="https://github.com/user-attachments/assets/b00936e8-4ccd-45d4-9cb0-268722411ade" /></div>
 
-<div align="center"># Technical Requirements</div>
+<div align="center"> # Technical Requirements </div>
 - **Languages:** HTML5, CSS3, and TypeScript (TSX).
 - **Frameworks:** React.js (Frontend library) and Tailwind CSS (Utility-first styling).
 - **Build Tool:** Vite (for fast development and bundling).
